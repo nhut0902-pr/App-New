@@ -1,0 +1,6 @@
+{
+  "name": "LevelUp Study",
+  "description": "Gamify your learning experience with Pomodoro timers, daily campaigns, avatar skins, and stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
